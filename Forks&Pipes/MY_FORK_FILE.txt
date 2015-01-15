@@ -1,0 +1,4 @@
+Hello from main
+After fork fork_pid=5417
+Hello from main
+After fork fork_pid=0
